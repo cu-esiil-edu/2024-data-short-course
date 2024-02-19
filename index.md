@@ -36,3 +36,31 @@ We appreciate these partnerships and look forward to working with you all!
 * Education Trainer - Earth Lab; ESIIL
 * <a href="mailto: elcu4811@colorado.edu" target = "_blank">**Email**</a>
 * <a href="https://earthlab.colorado.edu/our-team/elsa-culler" target="_blank">**Website**</a>
+
+
+# Curriculum
+| Week/Topic | Learning Outcomes | Assignment| Resources |
+| :----------- | :----------- | :-------- | :-------|
+| **Week 1** - Introductions | GitHub; Markdown | Create portfolio page using GitHub pages and Markdown; Add name, GitHub username, link to profile to Course GitHub repository|   |
+| **Week 2** - Open & Reproducible Science | GitHub Codespaces; finding, opening, cleaning, and visualizing climate data from NOAA with Pandas; plotting with Matplotlib and ChatGPT | Repeat NOAA data analysis for a place/variable of your choosing; add link to GitHub profile page | |
+| **Week 3** - Spatial Data Fundamentals (Vector/Raster) | Vector - Finding, opening, and plotting shapefiles with Geopandas; Raster - Working with gridded data using Rioxarray; Folium | Create a culturally relevant map; add link to GitHub profile page | Text |
+| **Week 4** - Applications | Develop a lesson, module, or other example of how you will apply these new skills in your teaching or research | Text | Present your lesson or module in a short video recording or during synchronous meeting | Text |
+
+
+# Participants
+| Name | Organization| GitHub Username | GitHub Profile Page |
+| :----------- | :----------- | :-------- | :--------|
+| Nate Quarderer (instructor) | Earth Lab; ESIIL | nquarder  | [https://nquarder.github.io/](https://nquarder.github.io/) |
+| Elsa Culler (instructor) | Earth Lab; ESIIL | eculler  | [https://eculler.github.io/](https://eculler.github.io/) |
+
+# **Code of Conduct** 
+### (borrowed from the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html" target="_blank">Carpentries</a>)
+  
+<img style="float: right;" src="https://www.software.ac.uk/sites/default/files/The%20Carpentries.jpg" width="100" height="100">
+
+* **Use welcoming and inclusive language**
+* **Be respectful of different viewpoints and experiences**
+* **Gracefully accept constructive criticism**
+* **Focus on what is best for the community** 
+* **Show courtesy and respect towards other community members**
+
