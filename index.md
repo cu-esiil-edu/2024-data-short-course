@@ -1,6 +1,6 @@
 <img width="1000" height="160" src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-syllabus-2023/main/esiil-earthlab-cires-header.png">
 
-# Syllabus - ESIIL Data Short Course 2023
+# Syllabus - ESIIL Data Short Course 2024
 
 Welcome to the Environmental Data Science Innovation and Inclusion Lab (<a href="https://esiil.org/" target="_blank">**ESIIL**</a>) Data Short Course 2024! We are excited to have you in class for the next 4 weeks as we introduce you to **Earth and Environmental Data Science (EDS)** fundamentals using <a href="https://www.github.com/" target="_blank">**GitHub**</a> and <a href="https://www.python.org/" target="_blank">**Python**</a>. 
 
