@@ -65,8 +65,8 @@ We appreciate these partnerships and look forward to working with you all!
 * **Show courtesy and respect towards other community members**
  
 
-| Name      | Organization |
-| ----------- | ----------- |
-| Nate Quarderer (instructor)      | Title       |
-| Elsa Culler (instructor)   | Text        |
+| Name      | Organization | GitHub Username |            
+| ----------- | ----------- | ---------- |
+| Nate Quarderer (instructor)      | ESIIL; Earth Lab       | nquarder |
+| Elsa Culler (instructor)   | ESIIL; Earth Lab        | eculler |
 
