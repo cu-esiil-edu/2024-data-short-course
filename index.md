@@ -48,10 +48,10 @@ We appreciate these partnerships and look forward to working with you all!
 
 
 # Participants
-| Name | Organization | GitHub Username | GitHub Profile Page |
-| ----------- | ----------- | ----------- | ----------- |
-| Nate Quarderer (instructor) | Earth Lab; ESIIL | nquarder  | [https://nquarder.github.io/](https://nquarder.github.io/) |
-| Elsa Culler (instructor) | Earth Lab; ESIIL | eculler  | [https://eculler.github.io/](https://eculler.github.io/) |
+| Name      | Organization | GitHub Username |  GitHub Profile Link    |      
+| ----------- | ----------- | ---------- | ---------- |
+| Nate Quarderer (instructor)      | ESIIL; Earth Lab       | nquarder | [https://nquarder.github.io/](https://nquarder.github.io/) |
+| Elsa Culler (instructor)   | ESIIL; Earth Lab        | eculler | [https://eculler.github.io/](https://eculler.github.io/) |
 
 # **Code of Conduct** 
 ### (borrowed from the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html" target="_blank">Carpentries</a>)
@@ -63,10 +63,5 @@ We appreciate these partnerships and look forward to working with you all!
 * **Gracefully accept constructive criticism**
 * **Focus on what is best for the community** 
 * **Show courtesy and respect towards other community members**
- 
 
-| Name      | Organization | GitHub Username |  GitHub Profile Link    |      
-| ----------- | ----------- | ---------- | ---------- |
-| Nate Quarderer (instructor)      | ESIIL; Earth Lab       | nquarder | [https://nquarder.github.io/](https://nquarder.github.io/) |
-| Elsa Culler (instructor)   | ESIIL; Earth Lab        | eculler | [https://eculler.github.io/](https://eculler.github.io/) |
 
