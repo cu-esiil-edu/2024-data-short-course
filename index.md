@@ -39,6 +39,7 @@ We appreciate these partnerships and look forward to working with you all!
 
 
 # Curriculum
+
 | Week/Topic | Learning Outcomes | Assignment| Resources |
 | :----------- | :----------- | :-------- | :-------|
 | **Week 1** - Introductions | GitHub; Markdown | Create portfolio page using GitHub pages and Markdown; Add name, GitHub username, link to profile to Course GitHub repository|   |
@@ -65,8 +66,3 @@ We appreciate these partnerships and look forward to working with you all!
 * **Focus on what is best for the community** 
 * **Show courtesy and respect towards other community members**
 
-
-| Name      | Organization | GitHub Username |  GitHub Profile Link    |      
-| ----------- | ----------- | ---------- | ---------- |
-| Nate Quarderer (instructor)      | ESIIL; Earth Lab       | nquarder | [https://nquarder.github.io/](https://nquarder.github.io/) |
-| Elsa Culler (instructor)   | ESIIL; Earth Lab        | eculler | [https://eculler.github.io/](https://eculler.github.io/) |
