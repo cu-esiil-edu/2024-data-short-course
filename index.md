@@ -65,8 +65,8 @@ We appreciate these partnerships and look forward to working with you all!
 * **Show courtesy and respect towards other community members**
  
 
-| Syntax      | Description |
+| Name      | Organization |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Nate Quarderer (instructor)      | Title       |
+| Elsa Culler (instructor)   | Text        |
 
