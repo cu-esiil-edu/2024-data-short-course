@@ -63,4 +63,10 @@ We appreciate these partnerships and look forward to working with you all!
 * **Gracefully accept constructive criticism**
 * **Focus on what is best for the community** 
 * **Show courtesy and respect towards other community members**
+ 
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 
