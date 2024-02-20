@@ -49,7 +49,7 @@ We appreciate these partnerships and look forward to working with you all!
 
 # Participants
 | Name | Organization| GitHub Username | GitHub Profile Page |
-| :----------- | :----------- | :-------- | :--------|
+| ----------- | ----------- | -------- | --------|
 | Nate Quarderer (instructor) | Earth Lab; ESIIL | nquarder  | [https://nquarder.github.io/](https://nquarder.github.io/) |
 | Elsa Culler (instructor) | Earth Lab; ESIIL | eculler  | [https://eculler.github.io/](https://eculler.github.io/) |
 
