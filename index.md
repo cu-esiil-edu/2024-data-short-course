@@ -40,58 +40,58 @@ We appreciate these partnerships and look forward to working with you all!
 
 # Curriculum
 
-### **Week 1** - Introductions; GitHub; Markdown
-> 📝 **Assignment:**
+## **Week 1** - Introductions; GitHub; Markdown
+> ### 📝 **Assignment:**
 > * Create portfolio page using GitHub pages and Markdown
 > * Add name, GitHub username, link to profile to Course GitHub repository
 
-> 📚 **Readings:**
+> ### 📚 **Readings:**
 > * [Markdown guide]()
 > * [GitHub]()
 > * [GitHub pages]()
 > * [Jekyll themes]()
 
-> 🎥 **Recordings:**
+> ### 🎥 **Recordings:**
 > * [link]()
 > * [link]()
 
 ***
 
-### **Week 2** - Open & Reproducible Science; Time-Series Data
-> 📝 **Assignment:**
+## **Week 2** - Open & Reproducible Science; Time-Series Data
+> ### 📝 **Assignment:**
 > * Complete NOAA NCEI climate data workflow for a place/time/variable of your choosing
 > * Post link of your work to your GitHub portfolio page
 
-> 📚 **Readings:**
+> ### 📚 **Readings:**
 > * [GitHub Codespaces]()
 > * [NOAA NCEI]()
 > * [pandas]()
 > * [matplotlib]()
 
-> 🎥 **Recordings:**
+> ### 🎥 **Recordings:**
 > * [link]()
 > * [link]()
 
 ***
 
-### **Week 3** - Spatial Data Fundamentals
-> 📝 **Assignment:**
+## **Week 3** - Spatial Data Fundamentals
+> ### 📝 **Assignment:**
 > * Create a culturally relevant map
 > * Post link of your work to your GitHub portfolio page
 
-> 📚 **Readings:**
+> ### 📚 **Readings:**
 > * [GeoPandas]()
 > * [rioxarray]()
 > * [folium]()
 
-> 🎥 **Recordings:**
+> ### 🎥 **Recordings:**
 > * [link]()
 > * [link]()
 
 ***
 
-### **Week 4** - Applications
-> 📝 **Assignment:**
+## **Week 4** - Applications
+> ### 📝 **Assignment:**
 > * Develop a lesson, module, or other example that demonstrates how you will apply these new skills in your teaching or research
 > * Present your lesson or module in a short video recording or during synchronous meeting
 > * Post link of your work to your GitHub portfolio page
