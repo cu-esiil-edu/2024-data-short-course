@@ -40,12 +40,61 @@ We appreciate these partnerships and look forward to working with you all!
 
 # Curriculum
 
-| Week/Topic | Learning Outcomes | Assignment| Resources |
-| :----------- | :----------- | :-------- | :-------|
-| **Week 1** - Introductions | GitHub; Markdown | Create portfolio page using GitHub pages and Markdown; Add name, GitHub username, link to profile to Course GitHub repository|   |
-| **Week 2** - Open & Reproducible Science | GitHub Codespaces; finding, opening, cleaning, and visualizing climate data from NOAA with Pandas; plotting with Matplotlib and ChatGPT | Repeat NOAA data analysis for a place/variable of your choosing; add link to GitHub profile page | |
-| **Week 3** - Spatial Data Fundamentals (Vector/Raster) | Vector - Finding, opening, and plotting shapefiles with Geopandas; Raster - Working with gridded data using Rioxarray; Folium | Create a culturally relevant map; add link to GitHub profile page | Text |
-| **Week 4** - Applications | Develop a lesson, module, or other example of how you will apply these new skills in your teaching or research | Present your lesson or module in a short video recording or during synchronous meeting | Text |
+### **Week 1** - Introductions; GitHub; Markdown
+> 📝 **Assignment:**
+> * Create portfolio page using GitHub pages and Markdown
+> * Add name, GitHub username, link to profile to Course GitHub repository
+
+> 📚 **Readings:**
+> * [Markdown guide]()
+> * [GitHub]()
+> * [GitHub pages]()
+> * [Jekyll themes]()
+
+> 🎥 **Recordings:**
+> * [link]()
+> * [link]()
+
+***
+
+### **Week 2** - Open & Reproducible Science; Time-Series Data
+> 📝 **Assignment:**
+> * Complete NOAA NCEI climate data workflow for a place/time/variable of your choosing
+> * Post link of your work to your GitHub portfolio page
+
+> 📚 **Readings:**
+> * [GitHub Codespaces]()
+> * [NOAA NCEI]()
+> * [pandas]()
+> * [matplotlib]()
+
+> 🎥 **Recordings:**
+> * [link]()
+> * [link]()
+
+***
+
+### **Week 3** - Spatial Data Fundamentals
+> 📝 **Assignment:**
+> * Create a culturally relevant map
+> * Post link of your work to your GitHub portfolio page
+
+> 📚 **Readings:**
+> * [GeoPandas]()
+> * [rioxarray]()
+> * [folium]()
+
+> 🎥 **Recordings:**
+> * [link]()
+> * [link]()
+
+***
+
+### **Week 4** - Applications
+> 📝 **Assignment:**
+> * Develop a lesson, module, or other example that demonstrates how you will apply these new skills in your teaching or research
+> * Present your lesson or module in a short video recording or during synchronous meeting
+> * Post link of your work to your GitHub portfolio page
 
 
 # Participants
