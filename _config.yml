@@ -1,11 +1,9 @@
 name: 2024-esiil-data-short-course
 remote_theme: volny/creative-theme-jekyll
 
-
-
 # Site settings
 title: ESIIL Data Short Course 2024
-email:
+email: ""
 description: |
   A 4-week course for educators and leaders looking to start up 
   environmental data science programs in their communities.
