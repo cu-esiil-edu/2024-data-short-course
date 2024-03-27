@@ -1,3 +1,9 @@
-remote_theme: kitian616/jekyll-TeXt-theme
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
+lang: en-US
+title: ESIIL Data Short Course Syllabus
+twitter_username: CU_ESIIL
+github_username: cu-esiil-edu
+logo: "img/esiil_shortcourse_logo.png"
+
 
 
