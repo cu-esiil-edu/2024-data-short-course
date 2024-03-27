@@ -1,17 +1,2 @@
-name: 2024-esiil-data-short-course
-remote_theme: volny/creative-theme-jekyll
-
-# Site settings
-title: ESIIL Data Short Course 2024
-email: ""
-description: |
-  A 4-week course for educators and leaders looking to start up 
-  environmental data science programs in their communities.
-baseurl: ""
-url: ""
-
-twitter_username: CU_ESIIL
-github_username: cu-esiil-edu
-
-# Build settings
-markdown: kramdown
+remote_theme: zerostaticthemes/jekyll-serif-theme
+baseurl: https://cu-esiil-edu.github.io/2024-data-short-course/
