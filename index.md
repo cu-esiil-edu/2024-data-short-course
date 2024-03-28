@@ -46,10 +46,10 @@ We appreciate these partnerships and look forward to working with you all!
 > * Add name, GitHub username, link to profile to Course GitHub repository
 
 > ### 📚 **Readings:**
-> * [Markdown guide]()
-> * [GitHub]()
-> * [GitHub pages]()
-> * [Jekyll themes]()
+> * [Markdown guide](https://www.markdownguide.org/basic-syntax/)
+> * [GitHub](https://docs.github.com/en/get-started)
+> * [GitHub pages](https://docs.github.com/en/pages)
+> * [Jekyll themes](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll#themes)
 
 > ### 🎥 **Recordings:**
 > * [link]()
