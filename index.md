@@ -99,10 +99,10 @@ We appreciate these partnerships and look forward to working with you all!
 
 # Participants
 
-| Name      | Organization | GitHub Username |  GitHub Profile Link    |      
+| Name      | Organization | GitHub Username |  GitHub Portfolio Link    |      
 | ----------- | ----------- | ---------- | ---------- |
 | Nate Quarderer (instructor)      | ESIIL; Earth Lab       | nquarder | [https://nquarder.github.io/](https://nquarder.github.io/) |
-| [Elsa Culler](https://namedrop.io/elsaculler) (instructor)   | [ESIIL](https://esiil.org/) and [Earth Lab](https://earthlab.colorado.edu/earth-data-analytics-professional-graduate-certificate)       | {% include icon-github.html username=eculler label='eculler' %} | [https://eculler.github.io/](https://eculler.github.io/) |
+| [Elsa Culler](https://namedrop.io/elsaculler) (instructor)   | [ESIIL](https://esiil.org/) and [Earth Lab](https://earthlab.colorado.edu/earth-data-analytics-professional-graduate-certificate)       | [eculler](https://github.com/eculler) | [https://eculler.github.io/](https://eculler.github.io/) |
 | [Roberto Garcia](https://namedrop.io/robertogarcia) (student)   | INPE / MCTI        | Garcia-INPE | [https://Garcia-INPE.github.io/](https://Garcia-INPE.github.io/) |
 | Yasir Abbas (Student) | chyasirabbas | University of Agriculture Faisalabad | [https://chyasirabbasjutt.github.io/YasirAbbas.github.io/](https://chyasirabbasjutt.github.io/YasirAbbas.github.io/) |
 | Gaurav Chakrabarty (Student)   |         | gauravchakrabarty | [https://gauravchakrabarty.github.io/](https://gauravchakrabarty.github.io/) |
