@@ -104,6 +104,8 @@ We appreciate these partnerships and look forward to working with you all!
 | Nate Quarderer (instructor)      | ESIIL; Earth Lab       | nquarder | [https://nquarder.github.io/](https://nquarder.github.io/) |
 | [Elsa Culler](https://namedrop.io/elsaculler) (instructor)   | ESIIL; Earth Lab        | eculler | [https://eculler.github.io/](https://eculler.github.io/) |
 | Roberto Garcia (student)   | INPE / MCTI        | Garcia-INPE | [https://Garcia-INPE.github.io/](https://Garcia-INPE.github.io/) |
+| Yasir Abbas (Student) | chyasirabbas | [https://chyasirabbasjutt.github.io/YasirAbbas.github.io/] | | |
+| Gaurav Chakrabarty (Student)   |         | gauravchakrabarty | [https://gauravchakrabarty.github.io/]([https://eculler.github.io](https://gauravchakrabarty.github.io/)) |
 
 # **Code of Conduct** 
 ### (borrowed from the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html" target="_blank">Carpentries</a>)
