@@ -103,7 +103,7 @@ We appreciate these partnerships and look forward to working with you all!
 | ----------- | ----------- | ---------- | ---------- |
 | Nate Quarderer (instructor)      | ESIIL; Earth Lab       | nquarder | [https://nquarder.github.io/](https://nquarder.github.io/) |
 | [Elsa Culler](https://namedrop.io/elsaculler) (instructor)   | ESIIL; Earth Lab        | eculler | [https://eculler.github.io/](https://eculler.github.io/) |
-| Roberto Garcia (student)   | INPE / MCTI        | Garcia-INPE | [https://Garcia-INPE.github.io/](https://Garcia-INPE.github.io/) |
+| [Roberto Garcia](https://namedrop.io/robertogarcia) (student)   | INPE / MCTI        | Garcia-INPE | [https://Garcia-INPE.github.io/](https://Garcia-INPE.github.io/) |
 | Yasir Abbas (Student) |  | chyasirabbas  | [https://chyasirabbasjutt.github.io/YasirAbbas.github.io/](https://chyasirabbasjutt.github.io/YasirAbbas.github.io/)| 
 | Gaurav Chakrabarty (Student)   |         | gauravchakrabarty | [https://gauravchakrabarty.github.io/](https://gauravchakrabarty.github.io/) |
 
