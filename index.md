@@ -104,11 +104,14 @@ We appreciate these partnerships and look forward to working with you all!
 | Nate Quarderer (instructor)      | ESIIL; Earth Lab       | nquarder | [https://nquarder.github.io/](https://nquarder.github.io/) |
 | [Elsa Culler](https://namedrop.io/elsaculler) (instructor)   | [ESIIL](https://esiil.org/) and [Earth Lab](https://earthlab.colorado.edu/earth-data-analytics-professional-graduate-certificate)       | [eculler](https://github.com/eculler) | [https://eculler.github.io/](https://eculler.github.io/) |
 | [Roberto Garcia](https://namedrop.io/robertogarcia) (student)   | INPE / MCTI        | Garcia-INPE | [https://Garcia-INPE.github.io/](https://Garcia-INPE.github.io/) |
-| Yasir Abbas (Student) | chyasirabbas | University of Agriculture Faisalabad | [https://chyasirabbasjutt.github.io/YasirAbbas.github.io/](https://chyasirabbasjutt.github.io/YasirAbbas.github.io/) |
+| Yasir Abbas (Student) | University of Agriculture Faisalabad | chyasirabbas| [https://chyasirabbasjutt.github.io/YasirAbbas.github.io/](https://chyasirabbasjutt.github.io/YasirAbbas.github.io/) |
 | Gaurav Chakrabarty (Student)   |         | gauravchakrabarty | [https://gauravchakrabarty.github.io/](https://gauravchakrabarty.github.io/) |
-| jarrod Red Bird (Student) | Sicangu Climate Center | jarrodredbird | [https://jarrodredbird.github.io/RedBird.github.io/](https://jarrodredbird.github.io/RedBird.github.io/) |
+| Jarrod Red Bird (Student) | Sicangu Climate Center | jarrodredbird | [https://jarrodredbird.github.io/RedBird.github.io/](https://jarrodredbird.github.io/RedBird.github.io/) |
 | ESIItest24 (student) | ESIIL | ESIILtest24 | [https://esiiltest24.github.io/](https://esiiltest24.github.io/) |
 | William Blacksmith (student) | Sicangu Climate Center| WilliamBlacksmith | [https://williamblacksmith.github.io/](https://williamblacksmith.github.io/) |
+
+
+
 
 # **Code of Conduct** 
 ### (borrowed from the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html" target="_blank">Carpentries</a>)
