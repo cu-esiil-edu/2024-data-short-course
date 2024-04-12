@@ -108,6 +108,7 @@ We appreciate these partnerships and look forward to working with you all!
 | Gaurav Chakrabarty (Student)   |         | gauravchakrabarty | [https://gauravchakrabarty.github.io/](https://gauravchakrabarty.github.io/) |
 | jarrod Red Bird (Student) | Sicangu Climate Center | jarrodredbird | [https://jarrodredbird.github.io/RedBird.github.io/](https://jarrodredbird.github.io/RedBird.github.io/) |
 | ESIItest24 (student) | ESIIL | ESIILtest24 | [https://esiiltest24.github.io/](https://esiiltest24.github.io/) |
+| William Blacksmith (student) | Sicangu Climate Center| WilliamBlacksmith | [https://williamblacksmith.github.io/](https://williamblacksmith.github.io/) |
 
 # **Code of Conduct** 
 ### (borrowed from the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html" target="_blank">Carpentries</a>)
