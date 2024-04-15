@@ -115,8 +115,7 @@ We appreciate these partnerships and look forward to working with you all!
 | Megan Ward-Baranyay (student) | SDSU/UCSB | MeganWardBaranyay | [https://meganwardbaranyay.github.io/](https://meganwardbaranyay.github.io/) |
 | [Adeoye Malumi](https://namedrop.io/adeoyemalumi) (Student) | [Inter Trade Limited](https://www.intertradeltd.biz/) | [oye-bobs](https://github.com/oye-bobs) |  [https://oye-bobs.github.io/](https://oye-bobs.github.io/) | 
 | [Ana M. Tárano](https://namedrop.io/anatarano) (Student) | | anatarano |  [https://anatarano.github.io/](https://anatarano.github.io/) | 
-
-
+| [Dharani Suresh Babu] |UW-Madison| DharaniSureshBabu| [https://dharanisureshbabu.github.io/](https://dharanisureshbabu.github.io/) | 
 
 
 
