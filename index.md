@@ -112,6 +112,8 @@ We appreciate these partnerships and look forward to working with you all!
 | Alison Post (student) | Earth Lab, CU Boulder | akpost21 | [https://akpost21.github.io/](https://akpost21.github.io/) |
 | Jennifer Kovacs (student) | Biology Department, Agnes Scott College | echinodermatamata | [https://echinodermatamata.github.io/](https://echinodermatamata.github.io/) |
 | Megan Ward-Baranyay (student) | SDSU/UCSB | MeganWardBaranyay | [https://meganwardbaranyay.github.io/](https://meganwardbaranyay.github.io/) |
+| [Adeoye Malumi](https://namedrop.io/adeoyemalumi) (Student) | Inter Trade Limited | [oye-bobs](https://github.com/oye-bobs) |  [https://oye-bobs.github.io/](https://oye-bobs.github.io/) | 
+
 
 
 
