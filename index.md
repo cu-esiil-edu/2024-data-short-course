@@ -116,6 +116,8 @@ We appreciate these partnerships and look forward to working with you all!
 | [Adeoye Malumi](https://namedrop.io/adeoyemalumi) (Student) | [Inter Trade Limited](https://www.intertradeltd.biz/) | [oye-bobs](https://github.com/oye-bobs) |  [https://oye-bobs.github.io/](https://oye-bobs.github.io/) | 
 | [Ana M. Tárano](https://namedrop.io/anatarano) (Student) | | anatarano |  [https://anatarano.github.io/](https://anatarano.github.io/) | 
 | Dharani Suresh Babu (https://namedrop.io/dharanisureshbabu) (Ph.D. Student) | University of Wisconsin-Madison | DharaniSureshBabu | [DharaniSureshBabu.github.io](https://dharanisureshbabu.github.io/) |
+|Sandip Rijal (Student)| [FAU](https://www.fau.edu/); Department of Geoscience| Sandipriz| [https://sandipriz.github.io/](https://sandipriz.github.io/) |
+
 
 
 # **Code of Conduct** 
