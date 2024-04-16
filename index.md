@@ -119,7 +119,7 @@ We appreciate these partnerships and look forward to working with you all!
 | [Ana M. Tárano](https://namedrop.io/anatarano) (Student) | | anatarano |  [https://anatarano.github.io/](https://anatarano.github.io/) | 
 | Rachel Torres (student) | [Cal-Poly Humboldt](https://inrsep.humboldt.edu/) | rachtorr | [rachtorr.github.io](https://rachtorr.github.io/) |
 | [Dharani Suresh Babu](https://namedrop.io/dharanisureshbabu) (Ph.D. Student) | University of Wisconsin-Madison | DharaniSureshBabu | [DharaniSureshBabu.github.io](https://dharanisureshbabu.github.io/) |
-|Sandip Rijal (Student)| [FAU](https://www.fau.edu/); Department of Geoscience| Sandipriz| [https://sandipriz.github.io/](https://sandipriz.github.io/) |
+|[Sandip Rijal](https://namedrop.io/sandiprijal) (Student)| [FAU](https://www.fau.edu/); Department of Geoscience| Sandipriz| [https://sandipriz.github.io/](https://sandipriz.github.io/) |
 
 
 
