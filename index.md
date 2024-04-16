@@ -52,8 +52,9 @@ We appreciate these partnerships and look forward to working with you all!
 > * [Jekyll themes](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll#themes)
 
 > ### 🎥 **Recordings:**
-> * [link]()
-> * [link]()
+> * [Monday Lecture; April 8](https://cuboulder.zoom.us/rec/share/jCCo8993YHNAHiP2iZ-EG2VAJj-fAzJ3P5qH1UW6uHL7hsjFzDT_l1_5Tr1dM7LC.D9e1x34cQFV-fLm-)
+> * [Wednesday Office Hours; April 10](https://cuboulder.zoom.us/rec/share/87zNJ_IzSMClojlUpWxobHGaLnsszCJqFP9ocYKsJex7t6NIMst_n_B6MLZmik0k.fxFmeMbFHij3QN5n)
+> * [Thursday Office Hours; April 11](https://cuboulder.zoom.us/rec/share/eP9_Hlg4WQ6kkC4Oyf02GUjPmmzibLMaM7hwCuCCwhdCJDKkRceSS01kTq4daKFt.wT7dzLCula5GRUnH)
 
 ***
 
@@ -63,12 +64,13 @@ We appreciate these partnerships and look forward to working with you all!
 > * Post link of your work to your GitHub portfolio page
 
 > ### 📚 **Readings:**
-> * [GitHub Codespaces]()
-> * [NOAA NCEI]()
-> * [pandas]()
-> * [matplotlib]()
+> * [GitHub Codespaces](https://docs.github.com/en/codespaces)
+> * [NOAA NCEI](https://www.ncei.noaa.gov/access)
+> * [pandas](https://pandas.pydata.org/docs/)
+> * [holoviews](https://holoviews.org/index.html)
 
 > ### 🎥 **Recordings:**
+> * [Monday Lecture; April 15](https://cuboulder.zoom.us/rec/share/J_MX9kotW6p2T8lHVjvA0brwTlxSz-zQm1YtKAqucD6VNAo26qulWqu6OKXLU4Vk.4Hc8VGcMe7rJVyxq)
 > * [link]()
 > * [link]()
 
