@@ -72,7 +72,7 @@ We appreciate these partnerships and look forward to working with you all!
 > ### 🎥 **Recordings:**
 > * [Monday Lecture; April 15](https://cuboulder.zoom.us/rec/share/J_MX9kotW6p2T8lHVjvA0brwTlxSz-zQm1YtKAqucD6VNAo26qulWqu6OKXLU4Vk.4Hc8VGcMe7rJVyxq)
 > * [Wednesday Office Hours; April 17](https://cuboulder.zoom.us/rec/share/Xfd-8zt9n3LckulQJINc6SFfptcixgPKp1Z5nmIoqe7-XKpJnMh5J-GodGieVrgU.q7fqWjRRUwfmkiba)
-> * [link]()
+> * [Thursday Office Hours; April 18](https://cuboulder.zoom.us/rec/share/0jpbNWs0QW7GVYzAN399V8wI1H4GLF6MsV-zMqQ0BYZ-2cUPCMOWbnw9iPoHy8qD.8xqJMc5NSwaZn0Xw)
 
 ***
 
