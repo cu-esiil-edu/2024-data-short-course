@@ -82,11 +82,13 @@ We appreciate these partnerships and look forward to working with you all!
 > * Post link of your work to your GitHub portfolio page
 
 > ### 📚 **Readings:**
-> * [GeoPandas]()
-> * [rioxarray]()
-> * [folium]()
+> * [GeoPandas](https://geopandas.org/en/stable/)
+> * [rioxarray](https://corteva.github.io/rioxarray/stable/getting_started/getting_started.html)
+> * [NDVI](https://www.earthdatascience.org/courses/use-data-open-source-python/multispectral-remote-sensing/vegetation-indices-in-python/)
+> * [Earthdata - NASA](https://www.earthdata.nasa.gov/learn/get-started)
 
 > ### 🎥 **Recordings:**
+> * [Monday Lecture; April 22](https://cuboulder.zoom.us/rec/share/ry0kgMDiL36MEyKeqAUjHQ73rCs9-12DGEszVfAdLAG8nNUKTYXnK41qA5S3l-_O.YkgvsuW9A43fRthC)
 > * [link]()
 > * [link]()
 
