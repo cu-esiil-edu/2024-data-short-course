@@ -1,14 +1,14 @@
 ---
 name: Badge Submission PR
-description: |
-  For submitting a PR with a final badge submission.
+about: Pull Request template for submitting a badge submission
+title: "username's Badge Submission Request"
 assignees: 
   - eculler
   - nquarder
 labels:
   - "badge submission"
-title: "username's Badge Submission Request"
 ---
+
 Congratulations on completing your badge!
 Make sure that you have met all the requirements before you submit.
 
