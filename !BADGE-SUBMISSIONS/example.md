@@ -1,5 +1,7 @@
 # Badge Submission for Jane Doe
 
+Name to award badge to: Jane Doe
+
 Portfolio pages:
 - [Home Towns Pull Request](https://github.com/cu-esiil-edu/hometowns/pull/YOUR-PR-NUMBER-HERE)
 - [Main portfolio page](https://your-github-username.github.io/)
