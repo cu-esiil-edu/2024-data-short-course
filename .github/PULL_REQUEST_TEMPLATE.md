@@ -1,18 +1,8 @@
----
-name: Badge Submission PR
-about: Pull Request template for submitting a badge submission
-title: "username's Badge Submission Request"
-assignees: 
-  - eculler
-  - nquarder
-labels:
-  - "badge submission"
----
+If you are submitting a change to `index.md`, you can go ahead and delete this template.
 
-Congratulations on completing your badge!
-Make sure that you have met all the requirements before you submit.
+If you are submitting your badge completing file in !BADGE-SUBMISSIONS -- first, congratulations on completing your badge!
 
-Badge Requirements:
+Make sure that you have met all the requirements before you submit:
   - [ ] Link to a Home Towns Pull Request
   - [ ] Link to main portfolio page
       - [ ] At least one heading
