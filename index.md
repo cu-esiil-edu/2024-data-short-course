@@ -100,6 +100,12 @@ We appreciate these partnerships and look forward to working with you all!
 > * Present your lesson or module in a short video recording or during synchronous meeting
 > * Post link of your work to your GitHub portfolio page
 
+> ### 🎥 **Recordings:**
+> * [Monday Lecture; April 29](https://cuboulder.zoom.us/rec/share/1VF85mLd3Tm3oSaU7VyYewMN7v2KVtWoJUY1gNoD7bbniECzLZKhgXo9pHfCiLkC.Fpp6E7DCr2m9Diut)
+> * [Wednesday Office Hours; May 1](https://cuboulder.zoom.us/rec/share/0OvWO-DiG9-2zwHQ8te__q8IdQhlJIre1qrWliUlA4XcYahxHdeuoDqjK0nEu6RZ.tLYPKqEEo3dNU8Ss)
+> * [Thursday Office Hours; May 2](https://cuboulder.zoom.us/rec/share/ROjQOQnrIO1r_8raachUuaILLN9hMXRacmu8Gs5KxYFaHDu61Eso5VD8NJYIOak.hmh0kNUp9wGpneAR)
+
+
 
 # Participants
 
