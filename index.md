@@ -132,6 +132,7 @@ We appreciate these partnerships and look forward to working with you all!
 | Sodiq Jinad (Student) | [Ahmadu Bello University, Zaria](https://abu.edu.ng) | Sordhiq | [https://sordhiq.github.io](https://sordhiq.github.io) |
 | Elizabeth (Lizzie) Lombardi (Student) | University of New Mexico | emlgit | [https://emlgit.github.io](https://emlgit.github.io) |
 | Nadia CHARKI (Student) | - | nadiacharki | [https://nadiacharki.github.io](https://nadiacharki.github.io/) |
+| Brad Eckhardt (Student) | University of Colorado Boulder | bradeckhardt | https://bradeckhardt.github.io/ |
 
 # **Code of Conduct** 
 ### (borrowed from the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html" target="_blank">Carpentries</a>)
