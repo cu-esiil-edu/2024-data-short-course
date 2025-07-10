@@ -1,7 +1,7 @@
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 lang: en-US
 title: ESIIL Data Short Course Syllabus
-bluesky_username: cu-esiil
+twitter_username: CU_ESIIL
 github_username: cu-esiil-edu
 logo: "img/ESIIL_logo.png"
 
